@@ -1,0 +1,28 @@
+{
+  "slug": "low-ticket-funnel-playbook-v2",
+  "title": "The 2026 Low-Ticket Funnel Playbook",
+  "fileLabel": "2026 Low-Ticket Funnel Playbook",
+  "hook": "A tactical low-ticket funnel operating manual for SaaS, professional services, and local businesses in 2026. The math first (because most low-ticket offers fail on math, not creative). The 7-step funnel architecture from lead magnet to backend. Page-by-page specs with copy templates and word counts. Vertical plays for SaaS trials, paid intake for lawyers and dentists, and local first-visit voucher funnels. The 7-day buyer email sequence. FTC Click-to-Cancel and Stripe chargeback rules. The pricing psychology that still works in 2026.",
+  "benefits": [
+    "Funnel math worked through: AOV needed to cover paid CAC, the order-bump and OTO contribution to AOV, the LTV math that makes a -$10 first sale profitable inside 90 days.",
+    "The 7-step 2026 funnel architecture: lead magnet to tripwire to bump to OTO to downsell to continuity to backend. With dollar amounts at each step and the math floor.",
+    "Page-by-page specs: squeeze, sales, order, OTO, downsell, thank-you. Conversion benchmarks, word counts, layout rules, and copy templates for each.",
+    "Vertical plays: SaaS $1 paid trial, lifetime deal launch tactics, annual upfront. Professional services paid intake. Local first-visit voucher funnels.",
+    "The 7-day buyer email sequence with subject lines and body templates. Plus the 30/60/90 expansion path that converts low-ticket buyers to high-ticket clients.",
+    "Tracking + compliance: iOS attribution post-Jan 2026, FTC Click-to-Cancel rule status, Stripe chargeback rules with the $15 + $15 fee math, and continuity offer copy that survives dispute monitoring.",
+    "Pricing psychology that still works in 2026: the $7, $27, $47, $97 thresholds, charm pricing vs round numbers, and why the $1 trial pattern works when nothing else does.",
+    "The 10 most common 2026 failures and the fix for each. From under-priced OTOs to fulfillment friction to over-stacked Hormozi-style scammy stacks."
+  ],
+  "squeezeBullets": [
+    "Funnel math worked through: AOV needed to cover paid CAC, the LTV math that makes a -$10 first sale profitable",
+    "The 7-step 2026 funnel: lead magnet, tripwire, bump, OTO, downsell, continuity, backend. Dollar amounts at each step",
+    "Page-by-page specs for squeeze, sales, order, OTO, downsell, thank-you. Benchmarks, word counts, copy templates"
+  ],
+  "description": "Low-ticket funnel mechanics changed materially in the last twelve months. The price ladder migrated upward: the standard tripwire was $7 in 2015, $27 to $47 by 2020, and $47 to $97 in 2026 because click costs and audience saturation killed the math at lower prices. iOS attribution windows narrowed to 7-day click + 1-day view as of January 12, 2026. Stripe chargeback fees changed in mid-2025 to $15 + $15 dispute counter-fee, with subscription transactions explicitly excluded from Chargeback Protection. Meta enforcement against income-claim creative tightened. The FTC Click-to-Cancel rule was vacated by the Eighth Circuit in July 2025, then reissued as an Advance Notice of Proposed Rulemaking on January 30, 2026. ASC and Advantage+ thresholds dropped, putting AI campaigns in reach of small operators for the first time.\n\nThe Hormozi-style $100M Offers framework still works, but the buyers are now pattern-matching against the over-stacked scammy version of it. Restraint and authenticity beat over-stuffing in 2026.\n\nThis playbook is the small-operator update. Eight parts, all tactical, all built for SaaS, professional services, and local businesses running real budgets.\n\nPart 1, The 2026 Low-Ticket Funnel Reality.\n\nPart 2, Funnel Math First. The CAC vs AOV vs LTV math, with worked examples by price point. Why the front-end is for customer acquisition, never profit.\n\nPart 3, The 7-Step Funnel Architecture. Lead magnet, tripwire, order bump, OTO, downsell, continuity, backend. Dollar amounts at each step.\n\nPart 4, Page-by-Page Specs. Squeeze, sales, order, OTO, thank-you. Word counts, layout rules, copy templates.\n\nPart 5, Vertical Plays. SaaS $1 trial, lifetime deal launches, annual upfront. Professional services paid intake for lawyers and dentists. Local first-visit voucher funnels.\n\nPart 6, The 7-Day Buyer Email Sequence. Subject lines and body templates. Plus the 30/60/90 expansion path.\n\nPart 7, Tracking + Compliance. iOS attribution post-Jan 2026. FTC Click-to-Cancel status. Stripe chargeback math. Continuity copy that survives.\n\nPart 8, Pricing Psychology + 10 Common Failures. The $7, $27, $47, $97 thresholds. Charm pricing. The $1 trial mechanic.\n\nWritten for solo founders, in-house marketers, and agency operators running low-ticket funnels for SaaS, professional services, and local businesses in 2026.\n\nIncluded as a printable PDF and a duplicatable Notion reference.",
+  "emailSubject": "Your 2026 Low-Ticket Funnel Playbook is ready",
+  "githubUrl": "https://github.com/AI-BrandFactory/low-ticket-funnel-playbook-v2",
+  "notionUrl": "https://massiveimpact.notion.site/The-2026-Low-Ticket-Funnel-Playbook-34cfb27e66348142a3aefdff2e3e8fdf",
+  "notionIcon": "🪜",
+  "isPublished": true,
+  "githubRepo": "low-ticket-funnel-playbook-v2"
+}
